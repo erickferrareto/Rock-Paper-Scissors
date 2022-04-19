@@ -4,7 +4,7 @@ Projeto desenvolvido em Kotlin, cujo o principal objetivo é a realização do g
 
 Projeto exigiu bastante lógica de programação e tambémm novos conhecimentos em Android Studio.
 
-## Imagens:
+## Imagem:
 ![image](https://user-images.githubusercontent.com/94762988/163904599-c1d524e0-f5d7-4d09-bc04-bb667cb1eeba.png)
 
 ## Autor:
